@@ -1,0 +1,88 @@
+div._loading_overlay_wrapper {
+  position: fixed;
+
+  ._loading_overlay_overlay {
+    z-index: 1000000;
+    width: 100%;
+    top: 0;
+    bottom: 0;
+  }
+}
+.scroll-bar {
+  // overflow: hidden;
+}
+.doctor-schedule-container {
+  border-right: 1px solid #ddd;
+  overflow: hidden !important;
+  height: 100%;
+
+  .all-schedule {
+    select {
+      border-bottom: 1px solid #ddd;
+      border-top: none;
+      border-right: none;
+      border-left: none;
+      outline: none;
+      padding: 10px 20px;
+      cursor: pointer;
+      color: #45c3d2;
+      font-weight: 600;
+
+      option {
+        cursor: pointer;
+      }
+    }
+  }
+  .all-availble-time {
+    .text-calendar {
+      color: #333;
+      margin: 10px 0;
+
+      span {
+        text-transform: uppercase;
+        margin-left: 5px;
+      }
+    }
+    .time-content {
+      .time-content-btns {
+        display: flex;
+        gap: 15px;
+        flex-wrap: wrap;
+
+        button {
+          padding: 8px 10px;
+          border: none;
+          border-radius: 3px;
+          background-color: #fff04b;
+          outline: none;
+          font-weight: 550;
+          color: #333;
+
+          &:hover {
+            background-color: #45c3d2;
+            color: white;
+          }
+        }
+
+        .no-schedule {
+          font-size: 16px;
+          font-style: italic;
+        }
+
+        .btn-vie {
+          min-width: 120px;
+        }
+        .btn-en {
+          min-width: 170px;
+        }
+      }
+      .book-free {
+        margin-top: 10px;
+
+        i {
+          color: #333;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+div._loading_overlay_wrapper {
+  position: unset;
+  overflow: hidden;
+
+  ._loading_overlay_overlay {
+    z-index: 1000000;
+  }
+}
+.manage-patient-container {
+  .manage-patient-body {
+    padding: 20px;
+
+    .table-manage-patient {
+      button {
+        margin-left: 20px;
+      }
+    }
+  }
+}

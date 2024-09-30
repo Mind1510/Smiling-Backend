@@ -1,0 +1,146 @@
+{
+  "home-header": {
+    "speciality": "Chuyên khoa",
+    "search-doctor": "Tìm bác sĩ theo chuyên khoa",
+    "health-facility": "Cơ sở y tế",
+    "choose-clinic": "Chọn bệnh viện phòng khám",
+    "doctor": "Bác sĩ",
+    "select-doctor": "Chọn bác sĩ giỏi",
+    "fee": "Gói khám",
+    "check-health": "Khám sức khỏe tổng quát",
+    "login": "Đăng nhập",
+    "welcome": "Xin chào",
+    "with": "Đăng nhập với"
+  },
+  "banner": {
+    "title-1": "NỀN TẢNG Y TẾ",
+    "title-2": "CHĂM SÓC SỨC KHỎE TOÀN DIỆN",
+    "child-1": "Khám chuyên khoa",
+    "child-2": "Khám từ xa",
+    "child-3": "Khám tổng quát",
+    "child-4": "Xét nghiệm y học",
+    "child-5": "Sức khỏe tinh thần",
+    "child-6": "Khám nha khoa",
+    "child-7": "Tìm chuyên khoa khám bệnh"
+  },
+  "menu": {
+    "admin": {
+      "user": "Người dùng ",
+      "manage-doctor": "Quản lý bác sĩ",
+      "manage-admin": "Quản lý admin",
+      "crud": "CRUD user",
+      "crud-redux": "Quản lý tài khoản",
+      "clinic": "Phòng khám",
+      "manage-clinic": "Quản lý phòng khám",
+      "speciality": "Chuyên khoa",
+      "handbook": "Cẩm nang",
+      "manage-speciality": "Quản lý chuyên khoa",
+      "manage-handbook": "Quản lý cẩm nang"
+    },
+    "doctor": {
+      "manage-schedule": "Quản lý lịch khám bệnh",
+      "schedule": "Lịch trình khám bệnh",
+      "manage-patient": "Quản lý bệnh nhân khám bệnh"
+    }
+  },
+  "manage-user": {
+    "add": "Thêm mới người dùng",
+    "password": "Mật khẩu",
+    "firstname": "Họ",
+    "lastname": "Tên",
+    "phone": "Số điện thoại",
+    "address": "Địa chỉ",
+    "gender": "Giới tính",
+    "position": "Chức vụ",
+    "image": "Ảnh đại diện",
+    "save": "Lưu Người dùng",
+    "edit": "Lưu thay đổi",
+    "action": "Chức năng"
+  },
+  "home-page": {
+    "out-standing-doctor": "Bác sĩ nổi bật",
+    "more-info": "Xem thêm",
+    "specialty": "Chuyên khoa phổ biến",
+    "MedicalFacility": "Cơ sở y tế nổi bật",
+    "HandBook": "Cẩm nang",
+    "About": "Truyền thông nói về Smiling",
+    "content-up": "Smiling Heathycaring là nền tảng Y tế chăm sóc sức khỏe toàn diện cung cấp nền tảng công nghệ giúp bệnh nhân dễ dàng lựa chọn dịch vụ y tế từ mạng lưới bác sĩ chuyên khoa giỏi, phòng khám, bệnh viện uy tín với thông tin đã xác thực và đặt lịch nhanh chóng.",
+    "content-down": "Đội ngũ chúng tôi luôn nỗ lực hết mình, với mong muốn bệnh nhân yên tâm lựa chọn bác sĩ chuyên khoa giỏi cho vấn đề sức khỏe của mình. Để việc đặt lịch khám và đi khám của bệnh nhân trở nên đơn giản, thuận tiện nhất có thể. Vì vậy, hệ thống đặt lịch khám trực tuyến BookingCare được xây dựng dựa trên những nguyên tắc cơ bản sau đây."
+  },
+  "manage-doctor": {
+    "create": "Tạo thêm thông tin bác sĩ",
+    "choose-doctor": "Chọn bác sĩ",
+    "introduce": "Thông tin giới thiệu",
+    "save-infor": "Lưu thông tin",
+    "create-infor": "Tạo thông tin",
+    "price": "Chọn giá",
+    "payment": "Chọn phương thức thanh toán",
+    "province": "Tỉnh thành",
+    "clinic-name": "Tên phòng khám",
+    "clinic-address": "Địa chỉ phòng khám",
+    "note": "Ghi chú",
+    "choose-specialty": "Chọn chuyên khoa",
+    "choose-clinic": "Chọn phòng khám"
+  },
+  "manage-schedule": {
+    "title": "Quản lý lịch trình khám bệnh của bác sĩ",
+    "choose-doctor": "Chọn bác sĩ:",
+    "choose-schedule": "Chọn lịch khám:",
+    "save-infor": "Lưu thông tin"
+  },
+  "manage-specialty": {
+    "title": "Quản lý chuyên khoa",
+    "name-specialty": "Tên chuyên khoa:",
+    "image-specialty": "Ảnh chuyên khoa:",
+    "save-infor": "Lưu thông tin",
+    "choose": "Chọn"
+  },
+  "manage-clinic": {
+    "title": "Quản lý phòng khám",
+    "name-clinic": "Tên phòng khám",
+    "image-clinic": "Ảnh phòng khám",
+    "save-infor": "Lưu thông tin",
+    "choose": "Chọn",
+    "stt": "STT"
+  },
+  "manage-patient": {
+    "title": "QUẢN LÝ BỆNH NHÂN KHÁM BỆNH",
+    "id": "STT",
+    "choose-day": "Chọn Ngày Khám:",
+    "time": "Thời gian",
+    "name": "Họ tên",
+    "phone": "Số điện thoại",
+    "address": "Địa chỉ",
+    "gender": "Giới tính",
+    "confirm": "Xác nhận",
+    "action": "Chức năng",
+    "nodata": "Không có dữ liệu"
+  },
+  "patient": {
+    "detail-doctor": {
+      "schedule": "Lịch khám",
+      "no-schedule": "Bác sĩ không có lịch hẹn trong thời gian này, vui lòng chọn thời gian khác!",
+      "choose": "Chọn",
+      "book-free": "và đặt (miễn phí)",
+      "address-check": "ĐỊA CHỈ KHÁM",
+      "price-check": "Giá khám",
+      "payment-method": "Bệnh viện có thanh toán bằng hình thức: ",
+      "detail-view": "Xem chi tiết",
+      "hide-price": "Ẩn bảng giá"
+    },
+    "booking-modal": {
+      "price": "Giá khám: ",
+      "booking": "Miễn phí đặt lịch",
+      "fullname": "Họ tên",
+      "phone": "Số điện thoại",
+      "address": "Địa chỉ",
+      "reason": "Lý do Khám",
+      "date": "Ngày sinh",
+      "gender": "Giới tính",
+      "save": "Xác nhận",
+      "cancel": "Hủy",
+      "infor-booking": "Thông tin đặt lịch khám bệnh",
+      "more": "Xem thêm"
+    }
+  }
+}

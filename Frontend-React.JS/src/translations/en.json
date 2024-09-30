@@ -1,0 +1,147 @@
+{
+  "home-header": {
+    "speciality": "Medical Speciality",
+    "search-doctor": "Find a doctor by speciality",
+    "health-facility": "Health facility",
+    "choose-clinic": "Choose hospital clinic",
+    "doctor": "Doctor",
+    "select-doctor": "Select doctor",
+    "fee": "Examination package",
+    "check-health": "General health examination",
+    "login": "Login",
+    "welcome": "Welcome",
+    "with": "Or Login with"
+  },
+  "banner": {
+    "title-1": "MEDICAL FOUNDATION",
+    "title-2": "COMPREHENSIVE HEALTH CARE",
+    "child-1": "Specialized examination",
+    "child-2": "Remote examination",
+    "child-3": "General examination",
+    "child-4": "Medical testing",
+    "child-5": "Mental health",
+    "child-6": "Dental examination",
+    "child-7": "Find a medical specialist"
+  },
+
+  "menu": {
+    "admin": {
+      "user": "User",
+      "manage-doctor": "Manage doctor",
+      "manage-admin": "Manage admin",
+      "crud": "CRUD user",
+      "crud-redux": "Manage account",
+      "clinic": "Clinic",
+      "manage-clinic": "Manage Clinic",
+      "speciality": "Speciality",
+      "handbook": "Handbook",
+      "manage-speciality": "Manage speciality",
+      "manage-handbook": "Manage Handbook"
+    },
+    "doctor": {
+      "manage-schedule": "Manage schedule",
+      "schedule": "Schedule",
+      "manage-patient": "Manage Doctor's Patient"
+    }
+  },
+  "manage-user": {
+    "add": "Add new user",
+    "password": "password",
+    "firstname": "First Name",
+    "lastname": "Last Name",
+    "phone": "Phone Number",
+    "address": "Address",
+    "gender": "Gender",
+    "position": "Position",
+    "image": "Avatar",
+    "save": "Save User",
+    "edit": "Save changes",
+    "action": "Action"
+  },
+  "home-page": {
+    "out-standing-doctor": "Outstanding Doctor",
+    "more-info": "More Info",
+    "specialty": "Popular Specialty",
+    "MedicalFacility": "Outstanding Medical Facility",
+    "HandBook": "Hand Book",
+    "About": "Media talks about NVQ",
+    "content-up": "NVQ is a comprehensive healthcare platform that provides a technology platform to help patients easily choose medical services from a network of good specialists, reputable clinics and hospitals with verified information. real and quick to schedule.",
+    "content-down": "Our team always tries its best, with the hope that patients can feel secure in choosing a good specialist for their health problems. To make patient appointment and examination as simple and convenient as possible. Therefore, the BookingCare online medical appointment booking system is built based on the following basic principles."
+  },
+  "manage-doctor": {
+    "create": "CREATE DOCTOR INFORMATION",
+    "choose-doctor": "Choose a doctor",
+    "introduce": "Introductory information:",
+    "save-infor": "Save infor",
+    "create-infor": "Create infor",
+    "price": "Choose price",
+    "payment": "Choose payment method",
+    "province": "Province",
+    "clinic-name": "Clinic name",
+    "clinic-address": "Clinic address",
+    "note": "Note",
+    "choose-specialty": "Choose Specialty",
+    "choose-clinic": "Choose Clinic"
+  },
+  "manage-schedule": {
+    "title": "Manage doctor's examination plan",
+    "choose-doctor": "Choose a doctor:",
+    "choose-schedule": "Choose an appointment:",
+    "save-infor": "Save infor"
+  },
+  "manage-specialty": {
+    "title": "Specialty Management",
+    "name-specialty": "Specialty name:",
+    "image-specialty": "Image specialty:",
+    "save-infor": "Save infor",
+    "choose": "Choose"
+  },
+  "manage-clinic": {
+    "title": "Clinic Management",
+    "name-clinic": "Clinic name",
+    "image-clinic": "Clinic image",
+    "save-infor": "Save infor",
+    "choose": "Choose",
+    "stt": "ID"
+  },
+  "manage-patient": {
+    "title": "MEDICAL PATIENT MANAGEMENT",
+    "id": "ID",
+    "choose-day": "Choose Examination Date:",
+    "time": "Time",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "address": "Address",
+    "gender": "Gender",
+    "confirm": "Confirm",
+    "action": "Action",
+    "nodata": "No data"
+  },
+  "patient": {
+    "detail-doctor": {
+      "schedule": "Schedule",
+      "no-schedule": "Doctors don't have appointments during this time, please choose another time!",
+      "choose": "Choose",
+      "book-free": "and book (free)",
+      "address-check": "ADDRESS OF MEDICAL EXAMINATION",
+      "price-check": "MEDICAL EXAMINATION PRICES",
+      "payment-method": "The hospital pays in the form of: ",
+      "detail-view": "View details",
+      "hide-price": "Hide price list"
+    },
+    "booking-modal": {
+      "price": "Price: ",
+      "booking": "Free booking",
+      "fullname": "Full name",
+      "phone": "Phone Number",
+      "address": "Address",
+      "reason": "Reason for Examination",
+      "date": "Birthday",
+      "gender": "Gender",
+      "save": "Save",
+      "cancel": "Cancel",
+      "infor-booking": "Medical examination booking information",
+      "more": "More infor"
+    }
+  }
+}

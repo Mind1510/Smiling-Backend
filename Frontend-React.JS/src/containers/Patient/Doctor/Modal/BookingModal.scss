@@ -1,0 +1,47 @@
+.booking-modal-container {
+  border-radius: 10px;
+  .booking-modal-content {
+    display: flex;
+    flex-direction: column;
+
+    .booking-modal-header {
+      border-bottom: 1px solid #ccc;
+      padding: 15px;
+
+      .left {
+        font-size: 15px;
+        font-weight: 600;
+        color: #333;
+      }
+      .right {
+        float: right;
+        margin-right: 10px;
+        cursor: pointer;
+      }
+    }
+    .booking-modal-body {
+      height: 100%;
+      padding: 15px;
+    }
+    .booking-modal-footer {
+      border-top: 1px solid #ccc;
+      padding: 15px;
+      display: flex;
+      justify-content: flex-end;
+      gap: 15px;
+
+      .btn-booking-confirm {
+        padding: 5px;
+        padding: 5px 15px;
+      }
+      .btn-booking-cancel {
+        padding: 5px 20px;
+        border: none;
+        outline: none;
+        color: #333;
+        background-color: gainsboro;
+        margin-right: 15px;
+      }
+    }
+  }
+}
